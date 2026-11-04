@@ -1,4 +1,4 @@
-# Hi, I'm Charles 👋
+# Hi, I'm Ck 👋
 
 **Computer Engineering student at José Rizal University** (2023-2027) based in the Philippines.
 
