@@ -1,12 +1,8 @@
-# Hi, I'm Ck 👋
+# Hi, I'm Charles 👋
 
 **Computer Engineering student at José Rizal University** (2023-2027) based in the Philippines.
-I work on embedded systems, computer architecture, and software development.
 
 ## 🔭 What I'm working on
-- Embedded Systems and AI coursework
-- **Printstant**: Flutter/Firebase app for joining and managing queues at local print shops
-- **Rizzalian**: student-focused web project for the JRU community
 
 ## 🛠️ Tech stack
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -21,11 +17,6 @@ I work on embedded systems, computer architecture, and software development.
 
 ## 📊 GitHub stats
 ![sabo111's stats](https://github-readme-stats.vercel.app/api?username=sabo111&show_icons=true&theme=default)
-
-## 🏆 Highlights
-- Champion, C++ Programming Competition
-- MEGA50, Smart Innogen
-- CompTIA Tech+ · AWS Academy Machine Learning Foundations · Relational Database V8
 
 ## 📫 Connect
 [LinkedIn](https://[linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/charles-kristian-sarmiento/)) · [Email](mailto:krsiti4n.sarmiento@gmail.com)
