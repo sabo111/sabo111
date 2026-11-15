@@ -1,14 +1,13 @@
 # Hi, I'm Ck 👋
 <div align="center">
-**Computer Engineering student at José Rizal University** (2023-2027) based in the Philippines.
+Computer Engineering student at José Rizal University based in the Philippines.
 </div>
 
 ## 🔭 What I'm working on
 
-
 ## 🛠️ Tech stack
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,ai,java,py,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ai,java,py,vscode,aws" />
 </div>
 
 ## 📫 Connect
