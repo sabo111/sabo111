@@ -15,8 +15,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📊 GitHub stats
-![sabo111's stats](https://github-readme-stats.vercel.app/api?username=sabo111&show_icons=true&theme=default)
-
 ## 📫 Connect
 [LinkedIn](https://[linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/charles-kristian-sarmiento/)) · [Email](mailto:krsiti4n.sarmiento@gmail.com)
